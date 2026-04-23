@@ -45,7 +45,6 @@ The dataset used for this project contains real-world data science job informati
 
 ![1_Salary_Dashboard_Chart2.png](../Excel_coursework/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
-
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
 - 📊 **Data Representation:** Plotted median salary for each country with available data.
