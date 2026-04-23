@@ -3,7 +3,7 @@
 This repo contains the excel files for the work I have done in this project, I wanted to take part in this project in order to polish my excel skills in preparation of any data centric roles or projects I want to be a part of in the future.
 The dataset used was provided by Luke Barousse, a Data Analyst.
 
-There are the 2 key projects:
+These are the 2 key projects:
 
 - 💻 [Excel Dashboard](Project_1-Dashboard)
 
