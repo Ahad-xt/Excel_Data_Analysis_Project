@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As a graduated university student, I wondered what the most optimal skills are for most data centric jobs and what skills pay the most and how many average skills you might need for a job.
 
 ### Questions to Analyze
 
@@ -26,7 +26,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023. 
 
 It includes detailed information on:
 
@@ -144,7 +144,7 @@ It includes detailed information on:
 - 💻 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
 - ☁️ Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
 
-    ![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)
+![Top skills for data jobs.png](<Top skills for Data jobs.png>)
 
 #### 🤔So What
 
@@ -176,6 +176,6 @@ It includes detailed information on:
 
 ## Conclusion
 
-As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
+I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
 
-I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+This project serves as a guide and overview into what most roles look for skills-wise and the expected salaries to go with them, these skills are versatile and can be used in multiple different careers, I would recommend focusing on multiple different skills such as SQL, Python, Excel, Power-bi/Tableau and anything else that may be required for your career moving forward.
